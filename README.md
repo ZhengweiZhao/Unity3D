@@ -1,4 +1,4 @@
-@[TOC](Unity3D：离散仿真引擎基础-- 作业与练习)
+
 
 # 3D Game Programming & Design
 这是本学期3D游戏编程与设计的第一次作业，内容主要是熟悉Unity3D的基本原理和使用方法，以及C#的编程语法。
@@ -363,6 +363,6 @@ public class Chess : MonoBehaviour
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190911220103370.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190911220117371.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190911220130544.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
-[Github代码传送门](https://github.com/ZhengweiZhao/Unity3D)
+
 
 
