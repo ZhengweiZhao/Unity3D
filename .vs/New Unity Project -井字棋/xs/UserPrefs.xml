@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{236E0985-AACF-E852-27A7-EEF1F3C4F1EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Chess.cs">
+    <Files>
+      <File FileName="Assets/Chess.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project -井字棋" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Chess.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="160a98e1-487c-425a-8827-20e9ab2ad9ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
